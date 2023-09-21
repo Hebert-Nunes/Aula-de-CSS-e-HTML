@@ -24,7 +24,9 @@ h1 {
     justify-content: flex-end;
 
 }
-
+.MyClass {
+    color: blue;
+}
 .Subtitle {
     font-size: 22px;
 }
